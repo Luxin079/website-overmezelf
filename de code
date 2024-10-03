@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- <p style=""> -->
+
+    
+    <table>
+        <tr>
+            <th>
+                <img src="image.png" class="madsfoto"></p>
+            </th>
+            <th>
+                <h1>Mads Hoogeveen</h1>
+                <p>
+                    Ik ben 16 jaar en ik ben geboren in
+                    Amsterdam: Ik kom van de middelbare                                    
+                    school: Amsterdamse Mavo. 
+                    Ik volg nu de opleiding software 
+                    developer en ik wil hier later een game developer mee worden. 
+                    
+                </p>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h1>
+                    Amsterdam
+                </h1>
+                <p>
+                    Ik ben geboren in Amsterdam, ik woonde 
+                    tot me tweede in de Saffierstraat. Van me 2de
+                    tot mijn 16de woon ik nu in Amsterdam 
+                    Zuid. En sinds kort woon ik nu ook in 
+                    amsterdam oost omdat mijn vader daar 
+                    sinds kort naartoe is verhuisd.
+                    Het is altijd druk en er is altijd iets te doen. 
+                    Ik woon hier al mijn hele leven en heb er zeker
+                    Geen spijt van.      
+                    
+                </p>
+            </th>
+            <th>
+                <img src="Screenshot 2024-10-01 102127.png" class="websitefoto">
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <img src="Screenshot 2024-10-01 102206.png" class="websitefoto">
+            </th>
+            <th>
+                <h1>
+                    In mijn vrije tijd...
+                </h1>
+                <p>
+                    In mijn vrije tijd doe ik veel dingen want ik heb veel hobby's en dingen die ik leuk vind om te doen. 
+                    Zoals gamen, sporten, kung fu, programmeren, basketballen en afspreken met vrienden. 
+                    Ik heb helaas niet de tijd om al deze dingen tegelijk te doen maar als ik dat kon zou ik het wel doen.
+
+                </p>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h1>
+                    Wat kan ik al?
+                </h1>
+                <p>
+                    Een paar dingen waar ik goed in ben 
+                    en wat ik al kan zijn bijvoorbeeld:
+                    Dat ik goed ben in sporten zoals kung fu 
+                    en basketbal en best wel atletisch en actief 
+                    ben, en ook dat ik heel creatief ben en goed 
+                    ben in heel veel verschillende games. 
+                    Ik heb ook een backflip op de grond geland.
+                    
+                </p>
+            </th>
+            <th>
+                <img src="Screenshot 2024-10-02 092033.png" class="websitefoto">
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h1>
+                    Mijn top 10:
+                </h1>
+            </th>
+            <th>
+                <h2>
+                    1. Met vrienden zijn <br>
+                    2. Sporten <br>
+                    3. Gamen <br>
+                    4. Kung Fu <br>
+                    5. Basketbal<br>
+                    6. Youtube content maken <br>
+                    7. Freerunnen <br>
+                    8. Servers creëren <br>
+                    9. Programmeren <br>
+                    10.reizen
+                </h2>
+            </th>
+        </tr>
+    </table>
+ 
+</body>
+</html>
+</body>
+</html>
